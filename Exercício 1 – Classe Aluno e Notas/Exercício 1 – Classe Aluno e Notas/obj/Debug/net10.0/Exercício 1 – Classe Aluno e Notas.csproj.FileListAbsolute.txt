@@ -1,0 +1,14 @@
+C:\Users\Windows 11\source\repos\Exercício 1 – Classe Aluno e Notas\Exercício 1 – Classe Aluno e Notas\bin\Debug\net10.0\Exercício 1 – Classe Aluno e Notas.exe
+C:\Users\Windows 11\source\repos\Exercício 1 – Classe Aluno e Notas\Exercício 1 – Classe Aluno e Notas\bin\Debug\net10.0\Exercício 1 – Classe Aluno e Notas.deps.json
+C:\Users\Windows 11\source\repos\Exercício 1 – Classe Aluno e Notas\Exercício 1 – Classe Aluno e Notas\bin\Debug\net10.0\Exercício 1 – Classe Aluno e Notas.runtimeconfig.json
+C:\Users\Windows 11\source\repos\Exercício 1 – Classe Aluno e Notas\Exercício 1 – Classe Aluno e Notas\bin\Debug\net10.0\Exercício 1 – Classe Aluno e Notas.dll
+C:\Users\Windows 11\source\repos\Exercício 1 – Classe Aluno e Notas\Exercício 1 – Classe Aluno e Notas\bin\Debug\net10.0\Exercício 1 – Classe Aluno e Notas.pdb
+C:\Users\Windows 11\source\repos\Exercício 1 – Classe Aluno e Notas\Exercício 1 – Classe Aluno e Notas\obj\Debug\net10.0\Exercício 1 – Classe Aluno e Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\source\repos\Exercício 1 – Classe Aluno e Notas\Exercício 1 – Classe Aluno e Notas\obj\Debug\net10.0\Exercício 1 – Classe Aluno e Notas.AssemblyInfoInputs.cache
+C:\Users\Windows 11\source\repos\Exercício 1 – Classe Aluno e Notas\Exercício 1 – Classe Aluno e Notas\obj\Debug\net10.0\Exercício 1 – Classe Aluno e Notas.AssemblyInfo.cs
+C:\Users\Windows 11\source\repos\Exercício 1 – Classe Aluno e Notas\Exercício 1 – Classe Aluno e Notas\obj\Debug\net10.0\Exercício 1 – Classe Aluno e Notas.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\source\repos\Exercício 1 – Classe Aluno e Notas\Exercício 1 – Classe Aluno e Notas\obj\Debug\net10.0\Exercício 1 – Classe Aluno e Notas.dll
+C:\Users\Windows 11\source\repos\Exercício 1 – Classe Aluno e Notas\Exercício 1 – Classe Aluno e Notas\obj\Debug\net10.0\refint\Exercício 1 – Classe Aluno e Notas.dll
+C:\Users\Windows 11\source\repos\Exercício 1 – Classe Aluno e Notas\Exercício 1 – Classe Aluno e Notas\obj\Debug\net10.0\Exercício 1 – Classe Aluno e Notas.pdb
+C:\Users\Windows 11\source\repos\Exercício 1 – Classe Aluno e Notas\Exercício 1 – Classe Aluno e Notas\obj\Debug\net10.0\Exercício 1 – Classe Aluno e Notas.genruntimeconfig.cache
+C:\Users\Windows 11\source\repos\Exercício 1 – Classe Aluno e Notas\Exercício 1 – Classe Aluno e Notas\obj\Debug\net10.0\ref\Exercício 1 – Classe Aluno e Notas.dll
