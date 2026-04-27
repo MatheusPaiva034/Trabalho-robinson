@@ -1,0 +1,14 @@
+C:\Users\Windows 11\source\repos\Exercício  6 -  Pedidos\Exercício  6 -  Pedidos\bin\Debug\net10.0\Exercício  6 -  Pedidos.exe
+C:\Users\Windows 11\source\repos\Exercício  6 -  Pedidos\Exercício  6 -  Pedidos\bin\Debug\net10.0\Exercício  6 -  Pedidos.deps.json
+C:\Users\Windows 11\source\repos\Exercício  6 -  Pedidos\Exercício  6 -  Pedidos\bin\Debug\net10.0\Exercício  6 -  Pedidos.runtimeconfig.json
+C:\Users\Windows 11\source\repos\Exercício  6 -  Pedidos\Exercício  6 -  Pedidos\bin\Debug\net10.0\Exercício  6 -  Pedidos.dll
+C:\Users\Windows 11\source\repos\Exercício  6 -  Pedidos\Exercício  6 -  Pedidos\bin\Debug\net10.0\Exercício  6 -  Pedidos.pdb
+C:\Users\Windows 11\source\repos\Exercício  6 -  Pedidos\Exercício  6 -  Pedidos\obj\Debug\net10.0\Exercício  6 -  Pedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\source\repos\Exercício  6 -  Pedidos\Exercício  6 -  Pedidos\obj\Debug\net10.0\Exercício  6 -  Pedidos.AssemblyInfoInputs.cache
+C:\Users\Windows 11\source\repos\Exercício  6 -  Pedidos\Exercício  6 -  Pedidos\obj\Debug\net10.0\Exercício  6 -  Pedidos.AssemblyInfo.cs
+C:\Users\Windows 11\source\repos\Exercício  6 -  Pedidos\Exercício  6 -  Pedidos\obj\Debug\net10.0\Exercício  6 -  Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\source\repos\Exercício  6 -  Pedidos\Exercício  6 -  Pedidos\obj\Debug\net10.0\Exercício  6 -  Pedidos.dll
+C:\Users\Windows 11\source\repos\Exercício  6 -  Pedidos\Exercício  6 -  Pedidos\obj\Debug\net10.0\refint\Exercício  6 -  Pedidos.dll
+C:\Users\Windows 11\source\repos\Exercício  6 -  Pedidos\Exercício  6 -  Pedidos\obj\Debug\net10.0\Exercício  6 -  Pedidos.pdb
+C:\Users\Windows 11\source\repos\Exercício  6 -  Pedidos\Exercício  6 -  Pedidos\obj\Debug\net10.0\Exercício  6 -  Pedidos.genruntimeconfig.cache
+C:\Users\Windows 11\source\repos\Exercício  6 -  Pedidos\Exercício  6 -  Pedidos\obj\Debug\net10.0\ref\Exercício  6 -  Pedidos.dll
